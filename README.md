@@ -2,6 +2,8 @@
 
 ## Tener instalado node y correr el server antes de correr el front
 
+- Para instalar los modulos
+  npm install
 - Para correr los tests
   npm test
 - Para correr el proyecto
