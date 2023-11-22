@@ -6,3 +6,9 @@
   npm test
 - Para correr el proyecto
   npm start
+## tecnologias usadas
+- react
+- boostrap
+- jest 
+- react-teting-library
+- hooks
